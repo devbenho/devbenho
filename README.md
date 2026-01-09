@@ -6,9 +6,8 @@ Software Engineer
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [muhammadbanhawy@gmail.com](mailto:muhammadbanhawy@gmail.com)
-* 🚀  I'm currently working on [Truedar](http://(s):www.truedar.ae)
+* 🚀  I'm currently working on [YOUXEL Technology](http://(s):www.youxel.com)
 * 🧠  I'm learning SQL Internals
-* ⚡  She's my power
 
 <a href="https://www.x.com/devbenho" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/devbenho?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
